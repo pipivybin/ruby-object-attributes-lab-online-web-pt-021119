@@ -12,4 +12,8 @@ def breed=(dog_br)
   @breed = dog_br
 end
 
+def breed
+  @breed
+end
+
 end
