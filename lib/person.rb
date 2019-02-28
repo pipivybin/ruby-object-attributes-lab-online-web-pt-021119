@@ -4,4 +4,8 @@ class Person
     @name = input
   end
 
+  def name
+    @name
+  end
+
 end
